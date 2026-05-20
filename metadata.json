@@ -1,0 +1,6 @@
+{
+  "name": "Flame & Fork",
+  "description": "A premium, modern luxury fine-dining restaurant experience named Flame & Fork. Fully responsive, highly interactive, and visually stunning design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
